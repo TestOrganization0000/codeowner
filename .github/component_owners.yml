@@ -1,0 +1,7 @@
+components:
+
+  instrumentation_0:
+    - ocelotl
+
+  instrumentation_2:
+    - diegohurtadoservicenow
